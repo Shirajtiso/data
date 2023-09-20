@@ -5,6 +5,6 @@
     {"firstName": "Peter", "lastName": "Jones"}
   ],
   "vendor": [
-    {"name": "John", "email": "Doe@emils.ocm"}
+    {"name": "aJohn", "email": "Doe@emils.ocm"}
   ]
 }
