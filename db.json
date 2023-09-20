@@ -24,8 +24,7 @@
   },
   "note": "More Additional Notes",
   "status": "active"
-},
-    {
+},{
   "_id": "38472384902384",
   "image": "Yet Another Sample Image URL",
   "name": "Third Vendor",
@@ -50,8 +49,7 @@
   },
   "note": "Even More Additional Notes",
   "status": "active"
-}
-,{
+},{
   "_id": "93485738473845",
   "image": "One More Sample Image URL",
   "name": "Fourth Vendor",
