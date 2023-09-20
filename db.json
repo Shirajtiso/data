@@ -4,7 +4,7 @@
     {"firstName": "Anna", "lastName": "Smith"},
     {"firstName": "Peter", "lastName": "Jones"}
   ],
-  "vendor": 
+  "vendor": {
   "results": [
     {
   "_id": "23847238472384",
@@ -85,5 +85,5 @@
   "status": "active"
 }
   ],
-  "total": 3
+  "total": 3}
 }
