@@ -1,10 +1,4 @@
-{
-  "employees": [
-    {"firstName": "John", "lastName": "Doe"},
-    {"firstName": "Anna", "lastName": "Smith"},
-    {"firstName": "Peter", "lastName": "Jones"}
-  ],
-  "vendor": [
+"vendor": [
     {
   "_id": "23847238472384",
   "image": "Another Sample Image URL",
@@ -83,7 +77,4 @@
   "note": "Yet More Additional Notes",
   "status": "active"
 }
-
-
   ]
-}
