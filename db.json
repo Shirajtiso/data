@@ -13,16 +13,16 @@
         "website": "Second Vendor Website",
         "contactName": "Another Contact Name",
         "email": "secondvendor@example.com",
-        "phone": "+91-6543243210",
+        "phone": "987-654-3210",
         "orderEmail": "orders2@example.com",
-        "vendorAverageFulfilment": 5,
+        "vendorAverageFulfilment": 3.8,
         "averageShippingDay": 5,
         "address": {
           "address1": "Second Vendor Address",
           "address2": "Second Vendor Address",
           "city": "New York",
           "postalCode": "10001",
-          "country": "IN",
+          "country": "USA",
           "state": "NY"
         },
         "note": "More Additional Notes",
@@ -40,46 +40,19 @@
         "website": "Third Vendor Website",
         "contactName": "Third Contact Name",
         "email": "thirdvendor@example.com",
-        "phone": "+91-551234567",
+        "phone": "555-123-4567",
         "orderEmail": "orders3@example.com",
-        "vendorAverageFulfilment": 4,
+        "vendorAverageFulfilment": 4.2,
         "averageShippingDay": 6,
         "address": {
           "address1": "Third Vendor Address",
           "address2": "Third Vendor Address",
           "city": "Los Angeles",
           "postalCode": "90001",
-          "country": "IN",
+          "country": "USA",
           "state": "CA"
         },
         "note": "Even More Additional Notes",
-        "status": "active"
-      },
-      {
-        "_id": "93485738473845",
-        "image": "One More Sample Image URL",
-        "companyRef": "98189187843",
-        "name": "Fourth Vendor",
-        "tags": [
-          "Tag7",
-          "Tag8"
-        ],
-        "website": "Fourth Vendor Website",
-        "contactName": "Fourth Contact Name",
-        "email": "fourthvendor@example.com",
-        "phone": "+91-7894560",
-        "orderEmail": "orders4@example.com",
-        "vendorAverageFulfilment": 4,
-        "averageShippingDay": 8,
-        "address": {
-          "address1": "Fourth Vendor Address",
-          "address2": "Fourth Vendor Address",
-          "city": "Chicago",
-          "postalCode": "60601",
-          "country": "IN",
-          "state": "IL"
-        },
-        "note": "Yet More Additional Notes",
         "status": "active"
       }
     ],
@@ -87,87 +60,36 @@
   },
   "vendorcreate": [
     {
-      "id": "23847238472384",
-      "image": "Another Sample Image URL",
+      "image": "",
       "companyRef": "650c09d146324af3c05d971e",
-      "name": "Second Vendor",
+      "name": "vendorone",
       "tags": [
         [
-          "Tag3",
-          "Tag4"
+          [
+            [
+              "jhbjk"
+            ]
+          ]
         ]
       ],
-      "website": "Second Vendor Website",
-      "contactName": "Another Contact Name",
-      "email": "secondvendor@example.com",
-      "phone": "+91-6543243210",
-      "orderEmail": "orders2@example.com",
-      "vendorAverageFulfilment": 5,
-      "averageShippingDay": 5,
+      "website": "website",
+      "contactName": "name",
+      "email": "email@gmail.com",
+      "phone": "+966-38374483847",
+      "orderEmail": "email@gmail.com",
+      "vendorAverageFulfilment": "4",
+      "averageShippingDay": "6",
       "address": {
-        "address1": "Second Vendor Address",
-        "address2": "Second Vendor Address",
-        "postalCode": "10001",
-        "city": "New York",
-        "country": "India",
-        "state": "NY"
+        "address1": "hyd",
+        "address2": "",
+        "postalCode": "78273",
+        "city": "hyd",
+        "country": "Saudi Arabia",
+        "state": ""
       },
-      "note": "More Additional Notes",
-      "status": "inactive"
-    },
-    {
-      "id": "38472384902384",
-      "image": "Yet Another Sample Image URL",
-      "companyRef": "976818918",
-      "name": "Third Vendor",
-      "tags": [
-        "Tag5",
-        "Tag6"
-      ],
-      "website": "Third Vendor Website",
-      "contactName": "Third Contact Name",
-      "email": "thirdvendor@example.com",
-      "phone": "+91-551234567",
-      "orderEmail": "orders3@example.com",
-      "vendorAverageFulfilment": 4,
-      "averageShippingDay": 6,
-      "address": {
-        "address1": "Third Vendor Address",
-        "address2": "Third Vendor Address",
-        "city": "Los Angeles",
-        "postalCode": "90001",
-        "country": "IN",
-        "state": "CA"
-      },
-      "note": "Even More Additional Notes",
-      "status": "active"
-    },
-    {
-      "id": "93485738473845",
-      "image": "One More Sample Image URL",
-      "companyRef": "98189187843",
-      "name": "Fourth Vendor",
-      "tags": [
-        "Tag7",
-        "Tag8"
-      ],
-      "website": "Fourth Vendor Website",
-      "contactName": "Fourth Contact Name",
-      "email": "fourthvendor@example.com",
-      "phone": "+91-7894560",
-      "orderEmail": "orders4@example.com",
-      "vendorAverageFulfilment": 4,
-      "averageShippingDay": 8,
-      "address": {
-        "address1": "Fourth Vendor Address",
-        "address2": "Fourth Vendor Address",
-        "city": "Chicago",
-        "postalCode": "60601",
-        "country": "IN",
-        "state": "IL"
-      },
-      "note": "Yet More Additional Notes",
-      "status": "active"
+      "note": "notes",
+      "status": "active",
+      "id": "-tzTP3A"
     }
   ]
 }
